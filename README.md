@@ -6,9 +6,9 @@
 
 ## 사용 기술
 
-- 프레임워크는 Nest.JS, 언어는 Typescript를 사용합니다.
-- 데이터베이스는 관계형 데이터베이스(RDB)나 Document DB(MongoDB 등) 중에서 하나 이상을 사용해야 합니다. 이외의 NoSQL 시스템은 필요하다면 사용하셔도 좋습니다.
-- ORM 사용 가능합니다. (TypeORM or Sequelize)
+- 프레임워크는 Nest.JS 또는 Express.js를 사용합니다.
+- 데이터베이스는 관계형 데이터베이스(RDB)중에서 하나를 사용해야 합니다. 이외의 NoSQL 시스템은 필요하다면 사용하셔도 좋습니다.
+- ORM 사용 가능합니다. (Sequelize or TypeORM and so on...)
 
 ## 구현
 
