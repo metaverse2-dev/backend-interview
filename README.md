@@ -26,7 +26,7 @@
 
 ## 제출 방법
 
-이 리포지토리를 fork한 상태에서 작성하고, Pull Request을 보내주세요.
+- 이 리포지토리를 fork한 상태에서 작성하고, Pull Request을 보내주세요.
 
 ## 목적
 - RESTful API에 대한 이해도 검증
